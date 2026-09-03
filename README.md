@@ -1,7 +1,5 @@
 # Hi, I'm Daniel 👋
 
-### Cloud Security & DevSecOps | AWS • Terraform • Docker • Secure Cloud Architectures
-
 I'm **Daniel Millán Pérez**, a technology enthusiast focused on **cloud computing, cybersecurity and secure software architectures**.
 
 I'm currently studying **DAM (🎓 Multiplatform Application Development)**, with previous academic exposure to **Computer Engineering**, including **C++ and ARMv4 Assembly**, while continuing to build my knowledge through years of **self-directed learning, hands-on experimentation and personal projects**.
