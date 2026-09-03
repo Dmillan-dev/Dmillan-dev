@@ -23,69 +23,31 @@ My current goal is to combine **software development + cloud + cybersecurity** t
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## 🛠️ Tech Stack
 
-### AWS
+**☁️ Cloud & AWS**
+`AWS` • `IAM` • `EC2` • `S3` • `VPC` • Cloud Architecture • Shared Responsibility Model • AWS Well-Architected Framework • Cloud Security • Billing & Cost Management
 
-* AWS Cloud Practitioner
-* IAM
-* EC2
-* S3
-* VPC
-* Cloud security fundamentals
-* Cloud architecture
+**🤖 AI & Machine Learning**
+`Amazon Bedrock` • Generative AI • Foundation Models • Prompt Engineering • RAG • Knowledge Bases • Amazon SageMaker • Responsible AI • AI Security & Governance
 
-### Infrastructure as Code
+**🏗️ Infrastructure & DevSecOps**
+`Terraform` • `Docker` • `Docker Compose` • Infrastructure as Code • Automation • Container Security • Vulnerability Management
 
-* Terraform
-* Infrastructure automation
-* Reproducible environments
+**💻 Development**
+`Java` • `Python` • `C++` • `SQL` • `JavaScript` • `Bash` • `Spring Boot` • `Maven`
 
-### Containers
+**🗄️ Databases**
+`PostgreSQL` • `MongoDB` • SQL • NoSQL • Database Design
 
-* Docker
-* Docker Compose
-* Container security
-* OCI concepts
+**🐧 Systems & Networking**
+`Linux` • Computer Networks • TCP/IP • DNS • HTTP/HTTPS • Network Security
 
----
+**🔐 Security**
+`DevSecOps` • Cloud Security • IAM & Least Privilege • Secure Architectures • Security Scanning • Secret Detection • `Trivy` • `Nmap` • `Wireshark` • `Zeek`
 
-## 🔐 Security & DevSecOps
-
-I'm particularly interested in integrating security throughout the development and deployment lifecycle.
-
-* Cloud Security
-* DevSecOps
-* Secure software architectures
-* IAM & least privilege
-* Vulnerability management
-* Dependency security
-* Container security
-* Secret detection
-* Security scanning
-* Infrastructure security
-* Network security
-* Security automation
-
-**Tools & technologies**
-
-`Trivy` • `Nmap` • `Wireshark` • `Zeek` • `Docker` • `Terraform` • `AWS`
-
----
-
-## 💻 Development
-
-### Languages & Technologies
-
-`Java` • `Python` • `C++` • `SQL` • `JavaScript` • `Bash`
-
-### Backend & Data
-
-`Spring Boot` • `PostgreSQL`
-
-### Tools
-
-`Git` • `GitHub` • `Linux` • `Docker` • `Maven`
+**⚙️ Computer Architecture**
+`ARMv4 Assembly` • `C++` • Computer Architecture • Low-Level algorithm deep Programming
 
 ---
 
@@ -97,14 +59,6 @@ I'm particularly interested in integrating security throughout the development a
 
 IMPERATOR is a project focused on transforming operational data and events into **actionable business intelligence**.
 
-The platform explores how organizations can make operational decisions more:
-
-* 🔎 Searchable
-* 📊 Measurable
-* 🧠 Explainable
-* 💰 ROI-oriented
-* ⚙️ Automatable
-
 The project combines **cloud infrastructure, software engineering, data processing, security and automation**.
 
 👉 **[View IMPERATOR](https://github.com/Dmillan-dev/ImperatorProyect)**
@@ -115,9 +69,7 @@ The project combines **cloud infrastructure, software engineering, data processi
 
 ### AWS Certified Cloud Practitioner
 
-<a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url">
-  <img src="./assets/certifications/aws-cloud-practitioner.png" width="180" alt="AWS Certified Cloud Practitioner">
-</a>
+<a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> <img src="./aws-certified-cloud-practitioner.png" width="180" alt="AWS Certified Cloud Practitioner"> </a>
 
 **Verified certification:**
 [Credly Badge](https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url)
