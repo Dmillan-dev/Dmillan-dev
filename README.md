@@ -49,6 +49,10 @@ My current goal is to combine **software development + cloud + cybersecurity** t
 **⚙️ Computer Architecture**
 `ARMv4 Assembly` • `C++` • Computer Architecture • Low-Level algorithm deep Programming
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,java,spring,python,bash,cpp,js,ts,postgres,mongodb&perline=16" />
+</p>
+
 ---
 
 ## 🚀 Featured Project
