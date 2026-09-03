@@ -79,12 +79,6 @@ I'm particularly interested in integrating security throughout the development a
 
 `Java` • `Python` • `C++` • `SQL` • `JavaScript` • `Bash`
 
-### Low-Level & Computer Architecture
-
-* **C++**
-* **ARMv4 Assembly**
-* Computer architecture fundamentals
-
 ### Backend & Data
 
 `Spring Boot` • `PostgreSQL`
