@@ -1,100 +1,89 @@
 # Hi, I'm Daniel 👋
 
-I'm **Daniel Millán Pérez**, a technology enthusiast focused on **cloud computing, cybersecurity and secure software architectures**.
+### Software Development Student · Cloud Security & DevSecOps Focus
 
-I'm currently studying **DAM (🎓 Multiplatform Application Development)**, with previous academic exposure to **Computer Engineering**, including **C++ and ARMv4 Assembly**, while continuing to build my knowledge through years of **self-directed learning, hands-on experimentation and personal projects**.
+I'm **Daniel Millán Pérez**, a software development student focused on building secure, automated and maintainable cloud applications.
 
-I enjoy turning ideas into useful, practical projects — especially when they involve **cloud infrastructure, automation, security and software engineering**.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 **DAM Student** — Desarrollo de Aplicaciones Multiplataforma
-* 🎓 Previous academic background in **Computer Engineering** 1 year
-* ☁️ Focused on **Cloud Computing & Cloud Security**
-* 🔐 Interested in **Cybersecurity, DevSecOps & Secure Architectures**
-* 🛠️ Building practical projects to learn by doing
-* 📚 Continuous self-learner with a strong focus on technology
-* 🚀 Interested in designing **secure, automated and scalable cloud environments**
-* 🌍 Open to international and remote technology opportunities
-
-My current goal is to combine **software development + cloud + cybersecurity** to build systems that are not only functional, but also **secure, automated and maintainable**.
-
----
-
-## 🛠️ Tech Stack
-
-**☁️ Cloud & AWS**
-`AWS` • `IAM` • `EC2` • `S3` • `VPC` • Cloud Architecture • Shared Responsibility Model • AWS Well-Architected Framework • Cloud Security • Billing & Cost Management
-
-**🤖 AI & Machine Learning**
-`Amazon Bedrock` • Generative AI • Foundation Models • Prompt Engineering • RAG • Knowledge Bases • Amazon SageMaker • Responsible AI • AI Security & Governance
-
-**🏗️ Infrastructure & DevSecOps**
-`Terraform` • `Docker` • `Docker Compose` • Infrastructure as Code • Automation • Container Security • Vulnerability Management
-
-**💻 Development**
-`Java` • `Python` • `C++` • `SQL` • `JavaScript` • `Bash` • `Spring Boot` • `Maven`
-
-**🗄️ Databases**
-`PostgreSQL` • `MongoDB` • SQL • NoSQL • Database Design
-
-**🐧 Systems & Networking**
-`Linux` • Computer Networks • TCP/IP • DNS • HTTP/HTTPS • Network Security
-
-**🔐 Security**
-`DevSecOps` • Cloud Security • IAM & Least Privilege • Secure Architectures • Security Scanning • Secret Detection • `Trivy` • `Nmap` • `Wireshark` • `Zeek`
-
-**⚙️ Computer Architecture**
-`ARMv4 Assembly` • `C++` • Computer Architecture • Low-Level algorithm deep Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,git,github,java,spring,python,bash,cpp,js,ts,postgres,mongodb&perline=16" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### IMPERATOR
-
-**Executive Operational Intelligence Platform**
-
-IMPERATOR is a project focused on transforming operational data and events into **actionable business intelligence**.
-
-The project combines **cloud infrastructure, software engineering, data processing, security and automation**.
-
-👉 **[View IMPERATOR](https://github.com/Dmillan-dev/ImperatorProyect)**
+I combine **software engineering, AWS and infrastructure as code** through hands-on projects, with an emphasis on architecture documentation, automation and security by design.
 
 ---
 
 ## 🏅 Certifications
 
-### AWS Certified Cloud Practitioner
+<a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url">
+  <img src="./aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner badge" />
+</a>
 
-<a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> <img src="./aws-certified-cloud-practitioner.png" width="180" alt="AWS Certified Cloud Practitioner"> </a>
-
-**Verified certification:**
-[Credly Badge](https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url)
-
----
-
-## 📚 Currently Learning
-
-I'm continuously expanding my knowledge in:
-
-* ☁️ AWS Cloud Architecture
-* 🔐 AWS Cloud Security
-* 🛡️ DevSecOps
-* 🏗️ Terraform & Infrastructure as Code
-* 🐳 Container Security
-* 🤖 Cloud & AI technologies
-* 🌐 Secure distributed systems
-* 🔎 Cybersecurity & OSINT
+**AWS Certified Cloud Practitioner**  
+[Verify credential on Credly ↗](https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url)
 
 ---
 
-## ⚡ Philosophy
+## 👨‍💻 About Me
+
+- 🎓 Studying **Multiplatform Application Development (DAM)**.
+- ☁️ Developing a professional focus in **AWS, Cloud Security and DevSecOps**.
+- 🏗️ Working with **Terraform and Docker** to build reproducible infrastructure and application environments.
+- 🔐 Exploring **least-privilege access, vulnerability management and security automation**.
+- 💻 Building applications with **Java, Python, SQL and Spring Boot**.
+- 🌍 Interested in **remote and international opportunities**.
+
+My goal is to bring **development, cloud and cybersecurity** together throughout the software lifecycle.
+
+---
+
+## 🚀 Featured Project
+
+### [IMPERATOR — Executive Operational Intelligence Platform](https://github.com/Dmillan-dev/ImperatorProyect)
+
+A project focused on transforming operational data and events into **actionable business intelligence**.
+
+IMPERATOR brings together software engineering, cloud infrastructure, data processing, security and automation. It is where I apply and develop my skills through practical implementation.
+
+**Areas of focus:** Cloud infrastructure · Software architecture · Data processing · Security · Automation
+
+[Explore the repository ↗](https://github.com/Dmillan-dev/ImperatorProyect)
+
+---
+
+## 🛠️ Technical Skills
+
+### Cloud & Infrastructure
+`AWS` `IAM` `EC2` `S3` `VPC` `Terraform` `Docker` `Docker Compose`
+
+Cloud architecture, infrastructure as code, AWS Well-Architected principles, shared responsibility and cost management.
+
+### Software Development & Databases
+`Java` `Python` `Spring Boot` `Maven` `SQL` `JavaScript` `C++` `Bash`  
+`PostgreSQL` `MongoDB`
+
+Application development, relational and document databases, and database design.
+
+### Security & DevSecOps
+`Trivy` `Nmap` `Wireshark` `Zeek`
+
+Least-privilege access, secure architectures, container security, vulnerability scanning, secret detection and security automation.
+
+### Systems & Networking
+`Linux` `Git` `GitHub`
+
+TCP/IP, DNS, HTTP/HTTPS, network security and computer architecture, including ARMv4 assembly.
+
+### AI & Cloud Services
+`Amazon Bedrock` `Amazon SageMaker`
+
+Foundational knowledge of generative AI, foundation models, prompt engineering, RAG, knowledge bases and responsible AI.
+
+---
+
+## 📚 Current Learning Priorities
+
+- **AWS architecture and security:** designing cloud environments with appropriate access controls.
+- **DevSecOps:** integrating security checks and automation into development workflows.
+- **Infrastructure as code:** building reproducible environments with Terraform.
+- **Container security:** identifying vulnerabilities and improving deployment practices.
+- **Cloud AI:** exploring AI services, security and governance.
+
+---
 
 > **Learn by building. Build with purpose. Secure by design.**
