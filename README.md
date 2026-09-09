@@ -1,8 +1,8 @@
 # Hi, I'm Daniel 👋
 
-### Software Development Student · Cloud Security & DevSecOps Focus
+### Software Development · Cloud Security & DevSecOps
 
-I'm **Daniel Millán Pérez**, a software development student focused on building secure, automated and maintainable cloud applications.
+I'm **Daniel Millán Pérez**, currently studying **Multiplatform Application Development (DAM)** and focused on building secure, automated and maintainable cloud applications.
 
 I combine **software engineering, AWS and infrastructure as code** through hands-on projects, with an emphasis on architecture documentation, automation and security by design.
 
@@ -21,10 +21,9 @@ I combine **software engineering, AWS and infrastructure as code** through hands
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Multiplatform Application Development (DAM)**.
 - ☁️ Developing a professional focus in **AWS, Cloud Security and DevSecOps**.
 - 🏗️ Working with **Terraform and Docker** to build reproducible infrastructure and application environments.
-- 🔐 Exploring **least-privilege access, vulnerability management and security automation**.
+- 🔐 Developing practical knowledge of **least-privilege access, vulnerability management and security automation**.
 - 💻 Building applications with **Java, Python, SQL and Spring Boot**.
 - 🌍 Interested in **remote and international opportunities**.
 
@@ -36,11 +35,13 @@ My goal is to bring **development, cloud and cybersecurity** together throughout
 
 ### [IMPERATOR — Executive Operational Intelligence Platform](https://github.com/Dmillan-dev/ImperatorProyect)
 
-A project focused on transforming operational data and events into **actionable business intelligence**.
+**IMPERATOR** is an operational intelligence project with an emphasis on security, designed to transform operational events and technical data into **actionable business intelligence**.
 
-IMPERATOR brings together software engineering, cloud infrastructure, data processing, security and automation. It is where I apply and develop my skills through practical implementation.
+It brings together software engineering, cloud infrastructure, security, automation and data processing, with the goal of developing a **production-oriented architecture**.
 
-**Areas of focus:** Cloud infrastructure · Software architecture · Data processing · Security · Automation
+The project is where I apply and develop my skills through practical implementation and architecture documentation.
+
+**Areas of focus:** Operational intelligence · Software architecture · Cloud infrastructure · Security · Automation
 
 [Explore the repository ↗](https://github.com/Dmillan-dev/ImperatorProyect)
 
@@ -53,11 +54,15 @@ IMPERATOR brings together software engineering, cloud infrastructure, data proce
 
 Cloud architecture, infrastructure as code, AWS Well-Architected principles, shared responsibility and cost management.
 
-### Software Development & Databases
-`Java` `Python` `Spring Boot` `Maven` `SQL` `JavaScript` `C++` `Bash`  
-`PostgreSQL` `MongoDB`
+### Development & Tooling
+`Java` `Python` `Spring Boot` `Maven` `Git` `GitHub`
 
-Application development, relational and document databases, and database design.
+Application development, version control and automation.
+
+### Databases
+`SQL` `PostgreSQL` `MongoDB`
+
+Relational and document databases, data modeling and database design.
 
 ### Security & DevSecOps
 `Trivy` `Nmap` `Wireshark` `Zeek`
@@ -65,14 +70,19 @@ Application development, relational and document databases, and database design.
 Least-privilege access, secure architectures, container security, vulnerability scanning, secret detection and security automation.
 
 ### Systems & Networking
-`Linux` `Git` `GitHub`
+`Linux` `TCP/IP` `DNS` `HTTP/HTTPS`
 
-TCP/IP, DNS, HTTP/HTTPS, network security and computer architecture, including ARMv4 assembly.
+System fundamentals, computer networks and network security.
 
 ### AI & Cloud Services
 `Amazon Bedrock` `Amazon SageMaker`
 
 Foundational knowledge of generative AI, foundation models, prompt engineering, RAG, knowledge bases and responsible AI.
+
+### Additional
+`C++` `JavaScript` `Bash` `ARMv4 Assembly`
+
+Additional programming experience and computer architecture fundamentals.
 
 ---
 
