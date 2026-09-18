@@ -10,7 +10,6 @@ I combine **software engineering, AWS and infrastructure as code** through hands
 
 ## 🏅 Certifications
 
-🏅 Certifications
 <table> <tr> <td align="center"> <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> <img src="./aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner badge" /> </a> <br> <strong>AWS Certified Cloud Practitioner</strong> <br> <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> Verify credential on Credly ↗ </a> </td> <td align="center"> <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url"> <img src="./aws-certified-ai-practitioner.png" width="150" alt="AWS Certified AI Practitioner badge" /> </a> <br> <strong>AWS Certified AI Practitioner</strong> <br> <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url"> Verify credential on Credly ↗ </a> </td> </tr> </table>
 ---
 
