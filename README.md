@@ -17,6 +17,12 @@ I combine **software engineering, AWS and infrastructure as code** through hands
 **AWS Certified Cloud Practitioner**  
 [Verify credential on Credly ↗](https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url)
 
+<a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url">
+  <img src="./aws-certified-ai-practitioner.png" width="150" alt="AWS Certified AI Practitioner badge" />
+</a>
+
+**AWS Certified AI Practitioner**  
+[Verify credential on Credly ↗](https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url)
 ---
 
 ## 👨‍💻 About Me
