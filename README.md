@@ -1,93 +1,96 @@
+<p align="center">
+  <img src="./assets/devops-arcade-banner.svg" width="100%" alt="Daniel Millan — AWS, DevOps and DevSecOps. Build with purpose. Automate delivery. Secure by design." />
+</p>
+
 # Hi, I'm Daniel 👋
 
-### Software Development · Cloud Security & DevSecOps
+### Software Development · AWS · DevOps & DevSecOps
 
-I'm **Daniel Millán Pérez**, currently studying **Multiplatform Application Development (DAM)** and focused on building secure, automated and maintainable cloud applications.
+I'm **Daniel Millán Pérez**, a **Multiplatform Application Development (DAM)** student building secure cloud applications and reproducible infrastructure. My focus is on **software architecture, delivery automation and security by design**.
 
-I combine **software engineering, AWS and infrastructure as code** through hands-on projects, with an emphasis on architecture documentation, automation and security by design.
+🌍 Interested in remote and international opportunities.
 
 ---
 
 ## 🏅 Certifications
 
-<table> <tr> <td align="center"> <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> <img src="./aws-certified-cloud-practitioner.png" width="150" alt="AWS Certified Cloud Practitioner badge" /> </a> <br> <strong>AWS Certified Cloud Practitioner</strong> <br> <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url"> Verify credential on Credly ↗ </a> </td> <td align="center"> <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url"> <img src="./aws-certified-ai-practitioner.png" width="150" alt="AWS Certified AI Practitioner badge" /> </a> <br> <strong>AWS Certified AI Practitioner</strong> <br> <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url"> Verify credential on Credly ↗ </a> </td> <td align="center"> <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielMillnPrez-3148/831B7C327D2825F8?sharingId=C1DE962734AB621F"> <img src="./github-foundations.png" width="150" alt="GitHub Foundations badge" /> </a> <br> <strong>GitHub Foundations</strong> <br> <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielMillnPrez-3148/831B7C327D2825F8?sharingId=C1DE962734AB621F"> Verify credential ↗ </a> </td> </tr> </table>
-
----
-
-## 👨‍💻 About Me
-
-- ☁️ Developing a professional focus in **AWS, Cloud Security and DevSecOps**.
-- 🏗️ Working with **Terraform and Docker** to build reproducible infrastructure and application environments.
-- 🔐 Developing practical knowledge of **least-privilege access, vulnerability management and security automation**.
-- 💻 Building applications with **Java, Python, SQL and Spring Boot**.
-- 🌍 Interested in **remote and international opportunities**.
-
-My goal is to bring **development, cloud and cybersecurity** together throughout the software lifecycle.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url">
+        <img src="./aws-certified-cloud-practitioner.png" height="120" alt="AWS Certified Cloud Practitioner badge" />
+      </a>
+      <br />
+      <strong>AWS Certified<br />Cloud Practitioner</strong>
+      <br />
+      <a href="https://www.credly.com/badges/74ed461d-1530-4731-a110-4c27f6f238b5/public_url">Verify on Credly ↗</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url">
+        <img src="./aws-certified-ai-practitioner.png" height="120" alt="AWS Certified AI Practitioner badge" />
+      </a>
+      <br />
+      <strong>AWS Certified<br />AI Practitioner</strong>
+      <br />
+      <a href="https://www.credly.com/badges/65d314c1-b909-415f-be2e-3c0542954b30/public_url">Verify on Credly ↗</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielMillnPrez-3148/831B7C327D2825F8?sharingId=C1DE962734AB621F">
+        <img src="./github-foundations.png" height="120" alt="GitHub Foundations badge" />
+      </a>
+      <br />
+      <strong>GitHub<br />Foundations</strong>
+      <br />
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielMillnPrez-3148/831B7C327D2825F8?sharingId=C1DE962734AB621F">Verify credential ↗</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Project
 
-### [IMPERATOR — Executive Operational Intelligence Platform](https://github.com/Dmillan-dev/ImperatorProyect)
+### [IMPERATOR — Enterprise Decision Intelligence Platform](https://github.com/Dmillan-dev/ImperatorProyect)
 
-**IMPERATOR** is an operational intelligence project with an emphasis on security, designed to transform operational events and technical data into **actionable business intelligence**.
+A **security-first platform** that turns operational evidence into explainable, measurable and auditable business decisions. It connects evidence, deterministic recommendations, human review and an **append-only Decision Ledger** to track expected and validated business value.
 
-It brings together software engineering, cloud infrastructure, security, automation and data processing, with the goal of developing a **production-oriented architecture**.
+- **Architecture:** Java 21 / Spring Boot modular monolith with hexagonal boundaries, PostgreSQL persistence and a Next.js Decision Review Workspace.
+- **Security & delivery:** JWT/RBAC, read-only GitHub and AWS evidence connectors, hardened Docker images, GitHub Actions CI, Trivy scanning and CodeQL.
+- **Cloud direction:** Terraform and OIDC workflows prepare an ECS/Fargate and RDS pilot; an optional Amazon Bedrock adapter provides audited explanations.
 
-The project is where I apply and develop my skills through practical implementation and architecture documentation.
+**Current stage: pre-pilot.** The core application and repository automation are implemented; live AWS deployment and provider validation remain pending.
 
-**Areas of focus:** Operational intelligence · Software architecture · Cloud infrastructure · Security · Automation
-
-[Explore the repository ↗](https://github.com/Dmillan-dev/ImperatorProyect)
+[Explore the repository ↗](https://github.com/Dmillan-dev/ImperatorProyect) · [Technical evidence ↗](https://github.com/Dmillan-dev/ImperatorProyect/blob/main/docs/portfolio/technical-evidence.md) · [Architecture decisions ↗](https://github.com/Dmillan-dev/ImperatorProyect/blob/main/docs/decisions/14_Decision_Log.md)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Cloud & Infrastructure
-`AWS` `IAM` `EC2` `S3` `VPC` `Terraform` `Docker` `Docker Compose`
+| Area | Technologies & focus |
+| --- | --- |
+| **Cloud & Infrastructure** | AWS (`IAM`, `EC2`, `S3`, `VPC`) · Terraform · Docker / Compose |
+| **Development & Tooling** | Java · Python · Spring Boot · Maven · Git / GitHub · Bash |
+| **Databases** | SQL · PostgreSQL · MongoDB |
+| **Security & DevSecOps** | Trivy · Nmap · Wireshark · Zeek · least privilege · vulnerability scanning |
+| **Systems & Networking** | Linux · TCP/IP · DNS · HTTP/HTTPS |
+| **AI Foundations** | Amazon Bedrock · Amazon SageMaker · generative AI · responsible AI |
 
-Cloud architecture, infrastructure as code, AWS Well-Architected principles, shared responsibility and cost management.
+<details>
+  <summary>Additional experience</summary>
 
-### Development & Tooling
-`Java` `Python` `Spring Boot` `Maven` `Git` `GitHub`
+  C++ · JavaScript · ARMv4 Assembly · computer architecture fundamentals.
 
-Application development, version control and automation.
-
-### Databases
-`SQL` `PostgreSQL` `MongoDB`
-
-Relational and document databases, data modeling and database design.
-
-### Security & DevSecOps
-`Trivy` `Nmap` `Wireshark` `Zeek`
-
-Least-privilege access, secure architectures, container security, vulnerability scanning, secret detection and security automation.
-
-### Systems & Networking
-`Linux` `TCP/IP` `DNS` `HTTP/HTTPS`
-
-System fundamentals, computer networks and network security.
-
-### AI & Cloud Services
-`Amazon Bedrock` `Amazon SageMaker`
-
-Foundational knowledge of generative AI, foundation models, prompt engineering, RAG, knowledge bases and responsible AI.
-
-### Additional
-`C++` `JavaScript` `Bash` `ARMv4 Assembly`
-
-Additional programming experience and computer architecture fundamentals.
+</details>
 
 ---
 
 ## 📚 Current Learning Priorities
 
-- **AWS architecture and security:** designing cloud environments with appropriate access controls.
-- **DevSecOps:** integrating security checks and automation into development workflows.
-- **Infrastructure as code:** building reproducible environments with Terraform.
-- **Container security:** identifying vulnerabilities and improving deployment practices.
-- **Cloud AI:** exploring AI services, security and governance.
+- **AWS Certified Solutions Architect – Associate preparation:** resilient cloud design, networking, access controls and cost optimization.
+- **AWS Certified Developer – Associate preparation:** AWS application development, deployment, CI/CD workflows and troubleshooting.
+- **DevSecOps & infrastructure as code:** reproducible Terraform environments, automated security checks and container hardening.
+- **Cloud operations:** deployment readiness, observability and recovery practices through IMPERATOR's AWS pilot preparation.
+- **Cloud AI:** bounded Amazon Bedrock integrations, explanation quality and governance.
 
 ---
 
